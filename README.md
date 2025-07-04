@@ -16,7 +16,7 @@ This is my solution to the [Recipe Page](https://www.frontendmentor.io/challenge
 
 - Semantic HTML5
 - CSS3 with Flexbox
-- Responsive layout using rem, clamp(), and logical properties
+- Responsive layout using rem and logical properties
 - Custom properties (CSS variables) for consistency
 - Mobile-first design
 - Git & GitHub workflow
