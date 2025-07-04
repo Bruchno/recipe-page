@@ -17,7 +17,6 @@ This is my solution to the [Recipe Page](https://www.frontendmentor.io/challenge
 - Semantic HTML5
 - CSS3 with Flexbox
 - Responsive layout using rem, clamp(), and logical properties
-- Accessibility-aware styling (prefers-reduced-motion, contrast)
 - Custom properties (CSS variables) for consistency
 - Mobile-first design
 - Git & GitHub workflow
@@ -25,7 +24,6 @@ This is my solution to the [Recipe Page](https://www.frontendmentor.io/challenge
 ## ✨ Highlights
 
 - 💛 Styled with accessibility and internationalization in mind
-- 🧮 Dynamic spacing using modern CSS functions like clamp() and calc()
 - 🦄 Clean, scalable design with centralized variables
 - 🌍 Language-agnostic layout using logical properties
 
